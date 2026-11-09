@@ -21,5 +21,5 @@ Worked with SQL databases, reporting tools, and data workflows to support busine
 **Driving Simulator** — A simulation project built using Unity,C#, Blender.
 
 ### Connect With Me
-- [LinkedIn](www.linkedin.com/in/vikram-raja-0152b432b)
-- [Email](vikramvraja@hotmail.com)
+- www.linkedin.com/in/vikram-raja-0152b432b
+- vikramvraja@hotmail.com
